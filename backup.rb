@@ -2,7 +2,7 @@
 
 cmd = ""
 cmd << "git add . "
-message = ENV['MSG'] || "Backup at #{Time.now.to_s}"
+message = ARGV[0] || "Backup at #{Time.now.to_s}"
 cmd << "&& git ci -am '#{message}' "
 cmd << "&& git push "
 
