@@ -1,0 +1,17 @@
+OVERVIEW
+
+A What we do (TB)
+  - what is betterplace
+  - why we decided on using Rails
+  
+B How we ended up in this situation (TB)
+  - ...
+  - what we would do differently today
+
+C Before you start
+
+D The update
+
+E Done! done?
+
+F Closing

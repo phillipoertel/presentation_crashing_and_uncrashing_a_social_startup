@@ -1,0 +1,12 @@
+* Title:
+betterplace.org: Crashing and uncrashing a social startup
+
+* Abstract:
+Many of you will have dealed with a Rails application that has become unbearingly slow and error-prone to develop. While pursuing our vision to improve the world, we must have lost track of the details and found ourselves in just that situation. In this talk I will explain how we managed to move forward out of deep technical debt, and present our learnings in form of a general approach you can reuse. I will also address issues commonly encountered when upgrading Rails to the current version.
+
+* Speaker Info: 
+Phillip Oertel, betterplace.org (twitter: http://www.twitter.com/phil76)
+also:
+Till Behnke, co-founder betterplace.org (http://twitter.com/betterplace_org)
+
+Phillip is an experienced software developer and advocate of process that adapts to the people and circumstances involved, while striving to improve constantly. Before joining betterplace.org as CTO last year, he spent three years at the largest German business social network, where he also started working professionally with Ruby on Rails. He studied in the school of hard knocks, so "his schooling didn't interfere with his education" (Mark Twain).

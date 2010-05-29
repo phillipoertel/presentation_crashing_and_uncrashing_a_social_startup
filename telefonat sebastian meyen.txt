@@ -1,0 +1,18 @@
+* Inhalt
+- wie man von einer "verbockten" applikation wieder auf einen grünen zweig kommt
+  - dont fix it all
+  - priorisierte liste
+  - test-abdeckunghigh level
+  - dont be perfectionist
+  - eliminate unneeded features/code/gems/plugins
+- best practises und detail-tips für das Rails-Update
+- umstände aufzeigen, wie es zu der situation gekommen ist
+  - Gründer
+- einige detaillösungen aus unserer applikation
+  - acts_as_account
+  - i18n
+- typical features you will want to use/refactor to after upgrading to rails
+
+* Bedingungen
+- Termin Mittwoch nachmittag
+- zwei Karten für betterplace-Entwickler

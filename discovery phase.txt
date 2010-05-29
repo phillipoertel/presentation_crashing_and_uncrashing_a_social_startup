@@ -1,0 +1,5 @@
+DONE - braindump
+DONE - look through presentations on topic
+DONE - look at knowledge about topic
+DONE - ask people what they want to hear
+TODO - look through your code and history

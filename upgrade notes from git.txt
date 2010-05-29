@@ -1,0 +1,41 @@
+- typus
+- dealing with beanstalk and hyperestraier
+  - fixes around it
+  - better error notification
+  - beanstalk 0.7. it works -- business requirements met, 
+    no tech problems in beanstalk itself, no need for additional features
+  - be pragmatic -- do stuff that will let it live until you'll replace it
+- attachment_fu
+- memcache
+- "investigation": look into a problem as deep until you can evaluate 
+  if you need to do something about it now or if a quick fix will do
+- dry up and Rails-standardize code, add configuration file
+- add caching when SQL queries are bog slow. memcache is your friend
+- structure helpers by topic, not only controller. GoogleAnalyticsHelper, FormElementsHelper, etc.
+- stop doing ugly things by default. set high standards and live up to them
+- make a diagram of models and controllers to understand code
+- sweepers, observers, mailers into own directory
+- namespace stuff
+- upgrade plugins and gems
+- load pictures from staging server in dev mode
+- write rake task for 1-step clone/anonymization of subset of production to dev data
+- establish coding conventions and fix files as you go
+- stabilize deployment
+- gem installation routine (geminstaller, cap task)
+- do low-hanging fixes/refactorings as you go; boost morale
+- Q: migrate in one step or in several (2.0 => 2.1 => 2.2 ...)
+- add tests when fixing an uncaught bug
+- quiet and undisturbed working conditions for team?
+- improve test speed
+- remove commented out code
+- remove pending tests
+- remove unused columns and tables
+- remove unused features
+- routing tests
+- require standards that your team can deliver
+- rake rails:update|git diff | mate
+- write the simplest form of test "smoke test"
+- don't expect perfection. but make sure you learn of bugs quickly.
+- markdown
+- continue releasing and merging while working on it
+

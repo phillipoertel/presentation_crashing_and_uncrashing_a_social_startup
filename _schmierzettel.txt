@@ -1,0 +1,18 @@
+== scrum procedure
+- do initial release planning
+- start working, do 3 sprints (6 pomodoros)
+- measure velocity
+- set up a release plan based on velocity and release burndown
+- do final release planning
+  - meeting schedule?
+
+== scrum for presentation rules
+- 1 sprint == 2 pomodoros (50min)
+- release after each sprint; i.e. test the whole presentation
+- backlog prioritization criteria:
+  "if you had to give a 5/10/15 minute presentation, what would you include?
+- backlog grooming whenever you want during the sprint.
+- monitor velocity and sprints
+- retrospective: 
+  at the end of each sprint, 
+  reflect on work done so far for max 3min, and consider changes
