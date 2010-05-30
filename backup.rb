@@ -3,8 +3,8 @@
 cmd = ""
 cmd << "git add . "
 message = ARGV[0] || "Backup at #{Time.now.to_s}"
-cmd << "&& git ci -am '#{message}' "
-cmd << "&& git push "
+cmd << " && git ci -am '#{message}'"
+cmd << " && git push"
 
 puts cmd
 `#{cmd}`
