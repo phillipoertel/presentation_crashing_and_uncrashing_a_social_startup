@@ -12,7 +12,3 @@
   - acts_as_account
   - i18n
 - typical features you will want to use/refactor to after upgrading to rails
-
-* Bedingungen
-- Termin Mittwoch nachmittag
-- zwei Karten für betterplace-Entwickler
