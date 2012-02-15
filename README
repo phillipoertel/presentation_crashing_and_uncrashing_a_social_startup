@@ -1,0 +1,8 @@
+Presentation material and planning for a talk on the initial work we did at betterplace.org, given together with Till Behnke. I had two days to put together the presentation and decided to organize myself with Scrum. It turned out to be the best presentation I've given so far, while the preparation itself was the least stressful.
+
+http://it-republik.de/konferenzen/planer/railswaycon2010_timetable.html
+
+Here's the abstract for the talk:
+
+Many of you will have dealed with a Rails application that has become unbearingly slow and error-prone to develop. While pursuing our vision to improve the world, we must have lost track of the details and found ourselves in just that situation. In this talk I will explain how we managed to move forward out of deep technical debt, and present our learnings in form of a general approach you can reuse. I will also mention issues commonly encountered when upgrading Rails to the current version.
+
